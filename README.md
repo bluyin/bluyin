@@ -5,6 +5,11 @@
 -   :seedling: Currently learning **Swift**
 -   :heart: Open Source Software
 
+<h2 align="left" id="bluyin-tech">My Stats</h2>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluyin&layout=compact&theme=radical)
+
 <h2 align="left" id="bluyin-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -53,5 +58,12 @@
       </a>
       <br>React
     </td>
+     </td>
+    <td align="center" width="96">
+      <a href="#bluyin-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="React" />
+      </a>
+      <br>Java
+    </td>
     
-    
+
