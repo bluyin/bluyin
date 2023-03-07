@@ -2,7 +2,7 @@
 
 -   :student: I am studying at **CEV Madrid** Cross Platform App Development
 -   :monocle_face: Interested in everything relationated with **Frontend**
--   :seedling: Currently learning **Swift**
+-   :seedling: Currently learning **SwiftUI**
 -   :heart: Open Source Software
 
 <h2 align="left" id="bluyin-tech">My Stats</h2>
