@@ -8,7 +8,7 @@
 <h2 align="left" id="bluyin-tech">My Stats</h2>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluyin&layout=compact&theme=radical)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bluyin&theme=radical&line_height=40&hide=css"/> </a>
 
 <h2 align="left" id="bluyin-tech">Favorite Tech</h2>
 
