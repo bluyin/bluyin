@@ -1,14 +1,16 @@
-<img src="https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;"/>
 
 -   :student: I am studying at **CEV Madrid** Cross Platform App Development
 -   :monocle_face: Interested in everything relationated with **Frontend and mobile dev**
--   :seedling: Currently learning **SwiftUI**
+-   :seedling: Currently learning **Flutter**
 -   :heart: Open Source Software
 
 <h2 align="left" id="bluyin-tech">My Stats</h2>
 
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bluyin&theme=radical&line_height=40&hide=css"/> </a>
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=bluyin&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bluyin's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluyin&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <h2 align="left" id="bluyin-tech">Favorite Tech</h2>
 
@@ -21,6 +23,12 @@
         <img src="https://developer.apple.com/swift/images/swift-og.png" width="48" height="48" alt="C#" />
       </a>
       <br>Swift
+    </td>
+    <td align="center" width="96">
+      <a href="#bluyin-tech">
+        <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" width="48" height="48" alt="Flutter-Dart" />
+      </a>
+      <br>Dart/Flutter
     </td>
     <td align="center" width="96">
       <a href="#bluyin-tech">
@@ -65,5 +73,6 @@
       </a>
       <br>Java
     </td>
+     
     
 
